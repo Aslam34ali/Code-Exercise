@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\developersample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:developersample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\syncing\\syncdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:syncing\\syncdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\syncing\\synctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:syncing\\synctest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\container\\containertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:container\\containertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\container\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:container\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\classrefactoring\\classrefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:classrefactoring\\classrefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\classrefactoring\\classrefactortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:classrefactoring\\classrefactortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\algorithms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:algorithms\\algorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|c:\\users\\abhinavtyagi\\downloads\\developer-sample-main\\developer-sample-main\\algorithms\\algorithmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7AF5C71-39DA-4844-B143-27100CA6BE8D}|DeveloperSample.csproj|solutionrelative:algorithms\\algorithmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeveloperSample",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\DeveloperSample.csproj",
+              "RelativeDocumentMoniker": "DeveloperSample.csproj",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\DeveloperSample.csproj",
+              "RelativeToolTip": "DeveloperSample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T06:41:23.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SyncTest.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Syncing\\SyncTest.cs",
+              "RelativeDocumentMoniker": "Syncing\\SyncTest.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Syncing\\SyncTest.cs",
+              "RelativeToolTip": "Syncing\\SyncTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:30:52.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SyncDebug.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Syncing\\SyncDebug.cs",
+              "RelativeDocumentMoniker": "Syncing\\SyncDebug.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Syncing\\SyncDebug.cs",
+              "RelativeToolTip": "Syncing\\SyncDebug.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:30:41.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContainerTest.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Container\\ContainerTest.cs",
+              "RelativeDocumentMoniker": "Container\\ContainerTest.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Container\\ContainerTest.cs",
+              "RelativeToolTip": "Container\\ContainerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:30:30.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Container\\Container.cs",
+              "RelativeDocumentMoniker": "Container\\Container.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Container\\Container.cs",
+              "RelativeToolTip": "Container\\Container.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:30:18.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassRefactorTest.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\ClassRefactoring\\ClassRefactorTest.cs",
+              "RelativeDocumentMoniker": "ClassRefactoring\\ClassRefactorTest.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\ClassRefactoring\\ClassRefactorTest.cs",
+              "RelativeToolTip": "ClassRefactoring\\ClassRefactorTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:29:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassRefactor.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\ClassRefactoring\\ClassRefactor.cs",
+              "RelativeDocumentMoniker": "ClassRefactoring\\ClassRefactor.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\ClassRefactoring\\ClassRefactor.cs",
+              "RelativeToolTip": "ClassRefactoring\\ClassRefactor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:28:50.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlgorithmTest.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Algorithms\\AlgorithmTest.cs",
+              "RelativeDocumentMoniker": "Algorithms\\AlgorithmTest.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Algorithms\\AlgorithmTest.cs",
+              "RelativeToolTip": "Algorithms\\AlgorithmTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:28:06.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Algorithms.cs",
+              "DocumentMoniker": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Algorithms\\Algorithms.cs",
+              "RelativeDocumentMoniker": "Algorithms\\Algorithms.cs",
+              "ToolTip": "C:\\Users\\AbhinavTyagi\\Downloads\\developer-sample-main\\developer-sample-main\\Algorithms\\Algorithms.cs",
+              "RelativeToolTip": "Algorithms\\Algorithms.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-15T16:27:44.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
